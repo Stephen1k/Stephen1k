@@ -1,11 +1,11 @@
 # 💫 About Me:
 IT professional with a Bachelor's degree in Computer Science.
 <br>
-Interested in DevOps and cloud technologies as the next step in my career journey. 
+Interested in Software Development and cloud technologies as the next step in my career journey. 
 <br>
 Enjoy tackling complex challenges and finding solutions.
 <br>
-I'm currently working on an Ecommerce website using Django
+I'm currently working on an Job Tracking website using Django
 <br>
 
 # 💻 Tech Stack:
